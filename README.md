@@ -14,6 +14,7 @@ Introduce API key: <API_KEY>
 ```
 
 Y de ahí ya puedes comenzar a divertirte.
+Dentro de la terminal cuando el script se esta ejectuando, presiona Ctrl + d para salir.
 
 Toda la documentación pertinente sobre como funciona esta API la podras encontrar en <a href='https://platform.openai.com/overview'>https://platform.openai.com/overview</a>
 
