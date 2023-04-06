@@ -2,7 +2,11 @@
 Este es un script para jugar una aventura basada en texto con ChatGPT.
 
 ## Uso ##
-Primero debes de conseguir una APIKey desde aquí <a href='https://platform.openai.com/'>https://platform.openai.com/</a>
+Primero debes de tener instalada la libreria python de openai.
+
+`pip install openai`
+
+luego debes de conseguir una APIKey desde aquí <a href='https://platform.openai.com/'>https://platform.openai.com/</a>
 yendo a Personal > View API Keys, ahí podras generar una sí ya estas registrad@.
 
 Luego detro del directorio y en una terminal
